@@ -1,6 +1,6 @@
 package pages;
 
-pubkic class ContactPage {
+public class ContactPage {
   
   // html for email
   
